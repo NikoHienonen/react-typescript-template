@@ -12,6 +12,10 @@ Navigate to project root and run npm install
 npm install
 ```
 
+## Configuration
+
+Configure eslint and prettier settings from .eslintrc.js and .prettierrc.js, the default options are my personal preferences.
+
 ## Usage
 
 Start the test server by running npm start
