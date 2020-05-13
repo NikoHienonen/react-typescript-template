@@ -1,6 +1,7 @@
 # React-Typescript-Template
 
 A template for creating ReactJS apps with typescript pre-configured.
+Author: Niko Hienonen
 
 ## Installation
 
